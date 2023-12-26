@@ -1,10 +1,13 @@
-import './App.css';
+// import Login from './Components/mainPage/Login/Login';
 
-function App() {
+
+const App = () => {
   return (
-    <div className="App">
-      <h1>E commerce</h1>
-    </div>
+    <>
+      <div>
+        app
+      </div>
+    </>
   );
 }
 
